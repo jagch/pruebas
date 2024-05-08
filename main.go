@@ -3,7 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("y dale (U)!!!")
-	fmt.Println(("el mejor de los equipos!!!"))
-	fmt.Println("el más campeón!!!")
+	fmt.Println("y dale (U) campeón 2023!!!")
+	functionInRama2()
 }
